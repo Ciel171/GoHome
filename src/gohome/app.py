@@ -1,5 +1,5 @@
 """
-Help my grandfather go home
+v0.1
 """
 import toga
 from toga.style import Pack
